@@ -1,7 +1,7 @@
 # mal-enterprise-bi-foundation
 # Mal Digital Bank — Enterprise BI Foundation
 
-**Live dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiZDlmNTVlMGMtNmI3OC00OGNlLWIxYmUtYTM2NDQ2ODczZTQxIiwidCI6IjA1MjFmOTBhLWY0ZWMtNDFjMC1hZGM3LTU3ZDQ0OWRhYThmZiJ9&pageName=7958c1d318a592bfa538]
+**Live dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDlmNTVlMGMtNmI3OC00OGNlLWIxYmUtYTM2NDQ2ODczZTQxIiwidCI6IjA1MjFmOTBhLWY0ZWMtNDFjMC1hZGM3LTU3ZDQ0OWRhYThmZiJ9&pageName=7958c1d318a592bfa538
 
 ## Overview
 
